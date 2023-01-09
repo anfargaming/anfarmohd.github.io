@@ -8,10 +8,10 @@
 
 <h3>:man_technologist: About me:</h3>
 
- - 👋 Hi, I’m SPA4KBRO
+ - 👋 Hi, I’m ANFAR MOHD
 
  - 👀 I’m interested in some crazy stuffs 🌌  🔭...
 
  - 💐 I’m currently studying ...
 
- -📫 How to reach me [![Tg Badge](https://img.shields.io/badge/-SPARKBRO-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/SPA4KBO)
+ -📫 How to reach me [![Tg Badge](https://img.shields.io/badge/-ANFARMOHD-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/anfar_mohammed)
